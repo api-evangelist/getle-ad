@@ -1,4 +1,4 @@
-# getle-ad
+# Getlead
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getle-ad is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getle.ad/
+Getlead provides AI‑powered B2B lead generation, email verification, and outreach automation. Their platform scrapes public sources, verifies decision‑maker contacts, and composes personalized cold‑email sequences, helping sales teams fill calendars on autopilot. Pricing starts at $30 per month with no subscription lock‑in, and the service includes a lead database of over 177 million verified contacts.
+
+**Areas:** Company · lead generation · email automation · B2B sales · AI
+
+## Getlead on APIs.io
+
+Everything profiled for Getlead is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getle-ad/](https://apis.io/providers/getle-ad/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Getlead API](https://apis.io/apis/getle-ad/getlead-api/) — API for Getlead lead generation platform, documented at the developer docs.
+- [Getlead API](https://apis.io/apis/getle-ad/getle-ad-api/) — Getlead API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-11-10); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostMcpHealthRequest](https://apis.io/schemas/getle-ad/getle-ad-post-mcp-health-request/)
+- [PostMcpRequest](https://apis.io/schemas/getle-ad/getle-ad-post-mcp-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getle Ad Context](https://apis.io/jsonld/getle-ad/getle-ad-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Getlead API Rules](https://apis.io/rules/getle-ad/getle-ad-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Getlead Domain Security](https://apis.io/security/getle-ad/getle-ad-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Getlead Plans Pricing](https://apis.io/plans/getle-ad/getle-ad-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Getlead Rate Limits](https://apis.io/rate-limits/getle-ad/getle-ad-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getle.ad/)
+- [Documentation](https://getle.ad/docs)
+- [Getting started](https://getle.ad/cold-email-setup)
+- [Pricing](https://getle.ad/pricing)
+- [Changelog](https://getle.ad/changelog)
+- [Blog](https://getle.ad/blog)
+- [Terms of service](https://getle.ad/terms)
+- [Privacy policy](https://getle.ad/privacy)
+- [Status](https://getle.ad/status)
+
+## API Evangelist rating
+
+**Kin Score 55.1** — strong · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 46.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 60.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getle-ad/](https://apis.io/providers/getle-ad/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Getlead: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getle-ad/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
